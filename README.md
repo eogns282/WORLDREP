@@ -1,4 +1,4 @@
-# WORLDREP: A Dataset for Analyzing and Predicting Global Relations
+# WORLDREP: A Dataset for Forecasting Future International Events
 
 > 🚀 **[Dataset on Hugging Face](https://huggingface.co/datasets/Daehoon/WORLDREP)**  
 
