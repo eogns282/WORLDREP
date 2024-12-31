@@ -2,7 +2,7 @@
 
 > 🚀 **[Dataset on Hugging Face](https://huggingface.co/datasets/Daehoon/WORLDREP)**  
 
-WORLDREP (**WORLD Relationship and Event Prediction**) is a high-quality dataset designed for predicting future international events based on textual information, such as news articles. It provides labeled relationships between countries with confidence scores ranging from **0.0 (cooperation)** to **1.0 (conflict)**.
+WORLDREP (**WORLD Relationship and Event Prediction**) is a high-quality dataset designed for predicting future international events based on textual information, such as news articles. It provides the relationships between countries with numerical scores ranging from **0.0 (cooperation)** to **1.0 (conflict)**.
 
 This dataset is introduced and detailed in the following paper:  
 [**Forecasting Future International Events: A Reliable Dataset for Text-Based Event Modeling**](https://arxiv.org/abs/2411.14042)
