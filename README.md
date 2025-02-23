@@ -19,7 +19,8 @@ The dataset features the following columns:
 |--------------|-----------------------------------------------------------------------------|
 | `EventID`    | Unique identifier for the event                                            |
 | `SourceURL`  | URL of the news article reporting the event                                |
-| `DATE`       | Publication date of the article in `YYYYMMDDHHMMSS` format                |
+| `DATE`       | Publication date of the article in `YYYYMMDDHHMMSS` format                 |
+| `CONTENT`    | Content of the news article                                                |
 | `Country1`   | The first country involved in the event                                    |
 | `Country2`   | The second country involved in the event                                   |
 | `Score`      | Numerical value (0.0-1.0) representing the relationship between countries. A score close to **0.0** indicates **cooperation**, while a score close to **1.0** indicates **conflict**. |
